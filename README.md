@@ -18,4 +18,5 @@ slmgr /xpr
 [Minecraft](https://t.me/Windowsandroid5_1bot?start=9QhdPhK82DVUqjA5gamH)
 ### happymod
 [happymod](https://happymod.com/)
-
+### SwiFTP
+[SwiFTP](https://t.me/Windowsandroid5_1bot?start=UjlaBQwL2N9oHU5qNOCu)
