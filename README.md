@@ -5,7 +5,7 @@
 ## windows
 ### Активатор
 *Відкриваємо Powershell від імені адміністратора. Прописуємо наступні команди:*
-```
+```powershel
 slmgr /skms kms.loli.best
 slmgr /ato
 slmgr /xpr
