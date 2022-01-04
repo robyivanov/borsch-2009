@@ -1,4 +1,4 @@
-![Говносайт-2009](https://github.com/robyivanov/borsch-2009/img/Siite.jpg)
+![Говносайт-2009](![Говносайт-2009](https://robyivanov.github.io/borsch-2009/img/Siite.jpg))
 ## windows
 ### Активатор
 *Відкриваємо Powershell від імені адміністратора. Прописуємо наступні команди:*
