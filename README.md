@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://robyivanov.github.io/borsch-2009/img/Siite.jpg">
-</p>
------
 ## windows
 ### Активатор
 *Відкриваємо Powershell від імені адміністратора. Прописуємо наступні команди:*
