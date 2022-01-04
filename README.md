@@ -11,6 +11,8 @@ slmgr /xpr
 -----
 ### FileZilla Client 
 [FileZilla Client ](https://filezilla-project.org/download.php?type=client)
+### qbittorrent
+[qbittorrent](https://www.qbittorrent.org/download.php)
 ## android
 ### Minecraft PE
 [Minecraft](https://t.me/Windowsandroid5_1bot?start=9QhdPhK82DVUqjA5gamH)
