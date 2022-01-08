@@ -23,6 +23,5 @@ slmgr /xpr
 ### YouTube Vanced
 [YouTube Vanced](https://vancedapp.com/)
 -----
-##Chat
-###Chat
+#Chat
 [Chat](https://robyivanov.github.io/borsch-2009/chat/)
