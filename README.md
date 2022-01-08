@@ -20,3 +20,5 @@ slmgr /xpr
 [SwiFTP](https://t.me/Windowsandroid5_1bot?start=UjlaBQwL2N9oHU5qNOCu)
 ### Instader
 [Instaner](https://thedise.me/instander/)
+### YouTube Vanced
+[YouTube Vanced](https://vancedapp.com/)
