@@ -21,6 +21,6 @@ slmgr /xpr
 ### Instader
 [Instaner](https://thedise.me/instander/)
 ### YouTube Vanced
-[YouTube Vanced](https://vancedapp.com/)
-_Chat_
+[YouTube Vanced](https://vancedapp.com/)__
+Chat__
 [Chat](https://robyivanov.github.io/borsch-2009/chat/)
