@@ -18,3 +18,5 @@ slmgr /xpr
 [happymod](https://happymod.com/)
 ### SwiFTP
 [SwiFTP](https://t.me/Windowsandroid5_1bot?start=UjlaBQwL2N9oHU5qNOCu)
+### Instader
+[Instaner](https://thedise.me/instander/)
